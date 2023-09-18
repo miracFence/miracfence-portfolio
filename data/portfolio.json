@@ -1,1 +1,130 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "miracFence",
+  "headerTaglineOne": "Hello there (•◡•) /,",
+  "headerTaglineTwo": "I'm Eluney Hernández.",
+  "headerTaglineThree": "I'm a ML Research, Data Science enthusiast",
+  "headerTaglineFour": " currently based in Mexico.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/miracFence" },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/eluney-hernandez/"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:themiracfence.code@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Endo-ViT",
+      "description": "ML Research",
+      "imageSrc": "https://images.unsplash.com/photo-1579684453401-966b11832744?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDM1NTB8MHwxfGFsbHx8fHx8fHx8fDE2OTQ5OTQ5MTJ8&ixlib=rb-4.0.3&q=80&w=400",
+      "url": ""
+    },
+    {
+      "id": "2",
+      "title": "Spotify Million Playlists Challenge - System Recommendation",
+      "description": "Machine Learning",
+      "imageSrc": "https://images.unsplash.com/photo-1613329671121-5d1cf551cc3f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w1MDM1NTB8MHwxfGFsbHx8fHx8fHx8fDE2OTQ5OTUwMzJ8&ixlib=rb-4.0.3&q=85",
+      "url": ""
+    },
+    {
+      "id": "fcd471f9-23af-4296-96a3-fa649099f955",
+      "title": "\"Somos NLP\" Hackathon - Spanish Abstract Generator",
+      "description": "Machine Learning & NLP",
+      "imageSrc": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w1MDM1NTB8MHwxfGFsbHx8fHx8fHx8fDE2OTQ5OTUwOTV8&ixlib=rb-4.0.3&q=85",
+      "url": ""
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Data Science",
+      "description": "Having years of experience in Data related fields, I help turning complex information into actionable insights, helping you make smarter decisions and a competitive edge. "
+    },
+    {
+      "id": "2",
+      "title": "Machine Learning",
+      "description": "Machine learning expertise transforms your data into intelligent solutions. Having worked in several projects involving Computer Vision, Natural Language Processing (including LLMs) and research projects"
+    },
+    {
+      "id": "3",
+      "title": "Web Development",
+      "description": "Experience in designing and builds user-friendly websites that captivate, engage, and convert visitors into customers. "
+    }
+  ],
+  "aboutpara": " I'm currently pursuing a postgraduate degree in AI Engineering, with a special focus on Software Engineering. My journey in technology has been a mix of academic learning and practical experience, where I've had the privilege of working in roles that have shaped my expertise. I've always been passionate about the potential of machine learning and data science to transform industries and improve lives. My work has allowed me to dive into various intriguing domains, including Causal Inference, Computer Vision, AI in Healthcare, Medical Imaging, and Natural Language Processing (NLP). What excites me most is the opportunity to explore AI Safety solutions that can ensure the responsible development of artificial intelligence for the future.\n\nBeyond my personal pursuits, I strongly commit to knowledge sharing and community engagement. I've had the privilege of leading projects, particularly in Computer Vision and NLP, during my tenure as the ML Club President at Universidad Panamericana. Currently, I'm dedicated to teaching Data Science at LeWagon, sharing my insights, and helping others discover the potential of this field.",
+  "resume": {
+    "tagline": "🤖 I'm a Data Scientist and Machine Learning Engineer",
+    "description": "Expertise in areas like Computer Vision and NLP",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "May 2023 – Aug. 2023",
+        "type": "Internship",
+        "position": "ML Research Intern at Universidad Panamericana",
+        "bullets": "Implemented Vision Transformer to enhance the exposure of Endoscopic Imaging, Successfully submitted to ICCV 2023 workshop as an extended abstract"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "Mar. 2022 – May 2023",
+        "type": "Full Time",
+        "position": "Data Scientist at Kantar Millward Brown",
+        "bullets": "Developed and fine-tuned ML models to present insights and marketing strategies for over 20+ prominent brands, Worked in developing internal tools and data pipelines"
+      },
+      {
+        "id": "dd82278f-d0f5-48b3-8fc8-a5755ec1bc82",
+        "dates": "Sep. 2020 – Feb. 2022",
+        "type": "Full Time",
+        "position": "Software Engineer at UPLabs",
+        "bullets": "Developed secure website for healthcare national system for rural areas Code Igniter and PostgreSQL, Development of secure mobile application for co-working companyusing React Native and Firebase"
+      },
+      {
+        "id": "9bd1200a-7c75-4d08-9bf8-7a30e9a1f308",
+        "dates": "July 2020 – October 2020",
+        "type": "Part Time",
+        "position": "Research Assistant at Universidad Panamericana",
+        "bullets": "Created a dataset of 25k audio files and used MLP to find click events, Obtained 84% F1-Score Metric in real conditions, Submitted paper to MICAI 2020 Conference and gave Virtual Oral Presentation in front of 100+ scientists"
+      },
+      {
+        "id": "24112a10-a0e3-4e55-9f71-4b23dd758063",
+        "dates": "Feb 2021 - Jul 2021",
+        "type": "Part Time",
+        "position": "Research Assistant at INAOE",
+        "bullets": "Causal Discovery for Time Series, Designing novel metrics to compare causal time series"
+      }
+    ],
+    "education": {
+      "universityName": "University Panamericana",
+      "universityDate": "2020-2024",
+      "universityPara": "Artificial Intelligence Engineering. Specialization in Software Engineering"
+    },
+    "languages": [
+      "Python",
+      "R",
+      "SQL",
+      "Java",
+      "Scala",
+      "C++",
+      "Javascript",
+      "Bash"
+    ],
+    "frameworks": [
+      "Pytorch",
+      "Pytorch Lightning",
+      "Tensorflow",
+      "PySpark",
+      "scikit-learn",
+      "React"
+    ],
+    "others": ["AWS", "GCP", "Azure", "Docker", "Hadoop", "Spark", "MongoDB"]
+  }
+}
